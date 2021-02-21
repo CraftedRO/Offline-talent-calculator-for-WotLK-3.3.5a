@@ -1,0 +1,232 @@
+.mySmall 		{ font-family: "Verdana", "Arial", "Helvetica", "Sans-Serif"; color: #ffffff; font-size: 8pt; line-height: 11pt;}
+.mySmallBlack 		{ font-family: "Verdana", "Arial", "Helvetica", "Sans-Serif"; color: #000000; font-size: 8pt; line-height: 11pt;}
+.mySmallWhite 		{ font-family: "Verdana", "Arial", "Helvetica", "Sans-Serif"; color: #ffffff; font-size: 8pt; line-height: 11pt;}
+	table 		{ font-family: "Verdana", "Arial", "Helvetica", "Sans-Serif"; font-size: 8pt; line-height: 11pt;}
+	
+		#rankTopStyle { position: absolute;
+			top: 29px;
+			left: 26px;
+			z-index: 100;
+       }	   
+	   
+		#descriptionTopStyle { position: absolute;
+			top: 20px;
+			left: 50px;
+			z-index: 100;
+      }	   	   
+	   
+		#descriptionTopStyleThird { position: absolute;
+			top: 20px;
+			left: -310px;
+			z-index: 100;
+       }	   	   
+
+		#descriptionTopStyleBottom { position: absolute;
+			top: -60px;
+			left: 50px;
+			z-index: 100;
+       }
+	   
+		#descriptionTopStyleThirdBottom { position: absolute;
+			top: -60px;
+			left: -310px;
+			z-index: 100;
+       }	   
+	   
+		#takeUpNoSpace { position: absolute;
+			z-index: 100;
+       }	   	   
+	   
+		#wrapper { position: relative;
+			z-index: 100;
+       }	   
+
+		#talentThumbStyle { position: absolute;
+			top: 0px;
+       }
+
+		#iconOver { position: absolute;
+			top: -2px;
+			left: -2px;
+       }
+	   
+		#wrapper99 { position: relative;
+			z-index: 99;
+       }	   
+
+		#wrapper51 { position: relative;
+			z-index: 51;
+       }	   	   
+
+		#wrapper49 { position: absolute;
+			z-index: 49;
+       }	   	 
+	   
+		#wrapper50 { position: relative;
+			z-index: 50;
+       }	   
+
+		#arrowdown1 { position: absolute;
+			top: -19px;
+			left: 8px;
+			z-index: 100;
+       }	   	   
+
+		#arrowdown2 { position: absolute;
+			top: -75px;
+			left: 8px;
+			z-index: 100;
+       }	   	   
+
+		#arrowdown3 { position: absolute;
+			top: -131px;
+			left: 8px;
+			z-index: 100;
+       }	   	   	   	   
+
+		#arrowdown4 { position: absolute;
+			top: -215px;
+			left: 8px;
+			z-index: 100;
+       }	   	   	   	   
+	   
+		#arrowacrossright { position: absolute;
+			top: 7px;
+			left: -19px;
+			z-index: 100;
+       }
+	   
+	   	#arrowacrossleft { position: absolute;
+			top: 7px;
+			left: 30px;
+			z-index: 100;
+       }   
+
+		#arrowdownleft { position: absolute;
+			top: -43px;
+			left: 9px;
+			z-index: 100;
+       }
+
+		#arrowdownright { position: absolute;
+			top: -43px;
+			left: -19px;
+			z-index: 100;
+       }
+
+		#tabs { position: absolute;
+			top: -14px;
+			z-index: 30;
+       }	   
+
+		#tabsUp { position: absolute;
+			top: -14px;
+			z-index: 30;
+			}
+	   
+#iconOverParchment{
+position: absolute;
+z-index: 100;
+
+}
+
+#alignLeft{text-align:left;float:left;color:ffffff;}
+#alignRight{text-align:right;float:right;color:ffffff;}
+    
+.tabletopleft { width: 14; height: 13; background-color:black;}
+.tabletop { background-color:black;}
+.tabletopright { width: 19; height: 13; background:black;}
+.tableleft { width: 14;  background-color:black;}
+.tablebotleft { width: 14; height: 40; background-color:black;}
+.tablebot { background-color:black;}
+.tableright {  background-color:black;}
+.tablebotright { width: 14; height: 40; background-color:black;}
+.tablebotrightright { width: 4; height: 40; background-color:black;}
+.tablebotleftleft { width: 4; height: 40; background-color:black;}
+
+table { font-size: 12px; }
+
+.treePadding {padding: 0px 10px 0 15px;}
+.talenttreename { height:27px; line-height:27px; position: relative; left: 0px;}
+.talenttreeicon { width:20px; height:20px; position: relative; top: 4px; left: 4px;}
+img.p {behavior: url("../../shared/global/talents/includes/pngBehavior.htc");}
+
+#replaceMeWithTalents {margin-top:6px; _margin-top:20px;}
+
+.treeName {color: #ffe400; font-weight: bold; font-size: 14px; }
+.treeColon {color: #FFFFFF; font-size: 12px;}
+.treePoint {color: #FFFFFF; font-size: 12px;}
+.treePoints {color: #FFFFFF; font-size: 12px;}
+
+.rankTooltip		{ font-family: "Tahoma", "Arial", "Helvetica", "Sans-Serif"; color: #ffffff; font-size: 11px;}
+.mySmall 		{ font-family: "Verdana", "Arial", "Helvetica", "Sans-Serif"; color: #ffffff; font-size: 11px; line-height: 11pt;}
+.mySmall2 		{ font-family: "Verdana", "Arial", "Helvetica", "Sans-Serif"; color: #ffd100; font-size: 11px; line-height: 11pt;}
+.mySmallOff 		{ font-family: "Verdana", "Arial", "Helvetica", "Sans-Serif"; color: #ffffff; font-size: 11px; line-height: 11pt;}
+.mySmall22 		{ font-family: "Verdana", "Arial", "Helvetica", "Sans-Serif"; color: #ffd100; font-size: 11px; line-height: 11pt;}
+.mySmallOff2 		{ font-family: "Verdana", "Arial", "Helvetica", "Sans-Serif"; color: #ffffff; font-size: 11px; line-height: 11pt;}
+.mySmallGreen 		{ font-family: "Verdana", "Arial", "Helvetica", "Sans-Serif"; color: #1aff1a; font-size: 11px; position: relative;}
+.mySmallGreen2 		{ font-family: "Verdana", "Arial", "Helvetica", "Sans-Serif"; color: #1aff1a; font-size: 11px; position: relative;}
+
+		.arrowdown1 { position: absolute;
+			top: -19px;
+			left: 8px;
+			z-index: 100;
+       }	   	   
+
+		.arrowdown2 { position: absolute;
+			top: -75px;
+			left: 8px;
+			z-index: 100;
+       }	   	   
+
+		.arrowdown3 { position: absolute;
+			top: -131px;
+			left: 8px;
+			z-index: 100;
+       }	   	   	   	   
+
+		.arrowdown4 { position: absolute;
+			top: -215px;
+			left: 8px;
+			z-index: 100;
+       }	   	   	   	   
+	   
+		.arrowacrossright { position: absolute;
+			top: 7px;
+			left: -19px;
+			z-index: 100;
+       }   
+	   
+		.arrowdownleft { position: absolute;
+			top: -43px;
+			left: 9px;
+			z-index: 100;
+       }
+	   
+		.arrowacrossleft { position: absolute;
+			top: 7px;
+			left: 30px;
+			z-index: 100;
+       }   
+
+		.arrowdownright { position: absolute;
+			top: -43px;
+			left: -19px;
+			z-index: 100;
+       }
+	   
+	   	.arrowdown2right { position: absolute;
+			top: -100px;
+			left: -19px;
+			z-index: 100;
+       }	   
+	   
+		.arrowdown2left { position: absolute;
+			top: -100px;
+			left: 9px;
+			z-index: 100;
+       }	   	   
+	   
+img.tpng { 
+	behavior: url("../../shared/global/talents/includes/pngBehavior.htc"); 
+}

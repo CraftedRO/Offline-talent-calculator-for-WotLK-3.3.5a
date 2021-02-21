@@ -1,0 +1,107 @@
+var i = 0;
+var t = 0;
+var nlclass = "mage";
+var nlclassPatch = "mage";
+
+nltree[i] = "Arcane"; i++;
+nltree[i] = "Fire"; i++;
+nltree[i] = "Frost"; i++;
+
+i = 0;
+
+nltalent[i] = ["Arcane Subtlety"]; i++;
+nltalent[i] = ["Arcane Focus"]; i++;
+nltalent[i] = ["Arcane Stability"]; i++;
+nltalent[i] = ["Arcane Fortitude"]; i++;
+nltalent[i] = ["Magic Absorption"]; i++;
+nltalent[i] = ["Arcane Concentration"]; i++;
+nltalent[i] = ["Magic Attunement"]; i++;
+nltalent[i] = ["Spell Impact"]; i++;
+nltalent[i] = ["Student of the Mind"]; i++;
+nltalent[i] = ["Focus Magic"]; i++;
+nltalent[i] = ["Arcane Shielding"]; i++;
+nltalent[i] = ["Improved Counterspell"]; i++;
+nltalent[i] = ["Arcane Meditation"]; i++;
+nltalent[i] = ["Torment the Weak"]; i++;
+nltalent[i] = ["Improved Blink"]; i++;
+nltalent[i] = ["Presence of Mind"]; i++;
+nltalent[i] = ["Arcane Mind"]; i++;
+nltalent[i] = ["Prismatic Cloak"]; i++;
+nltalent[i] = ["Arcane Instability"]; i++;
+nltalent[i] = ["Arcane Potency"]; i++;
+nltalent[i] = ["Arcane Empowerment"]; i++;
+nltalent[i] = ["Arcane Power"]; i++;
+nltalent[i] = ["Incanter's Absorption"]; i++;
+nltalent[i] = ["Arcane Flows"]; i++;
+nltalent[i] = ["Mind Mastery"]; i++;
+nltalent[i] = ["Slow"]; i++;
+nltalent[i] = ["Missile Barrage"]; i++;
+nltalent[i] = ["Netherwind Presence"]; i++;
+nltalent[i] = ["Spell Power"]; i++;
+nltalent[i] = ["Arcane Barrage"]; i++;
+treeStartStop[t] = i -1;
+t++;
+
+//fire talents
+nltalent[i] = ["Improved Fire Blast"]; i++;
+nltalent[i] = ["Incineration"]; i++;
+nltalent[i] = ["Improved Fireball"]; i++;
+nltalent[i] = ["Ignite"]; i++;
+nltalent[i] = ["Burning Determination"]; i++;
+nltalent[i] = ["World in Flames"]; i++;
+nltalent[i] = ["Flame Throwing"]; i++;
+nltalent[i] = ["Impact"]; i++;
+nltalent[i] = ["Pyroblast"]; i++;
+nltalent[i] = ["Burning Soul"]; i++;
+nltalent[i] = ["Improved Scorch"]; i++;
+nltalent[i] = ["Molten Shields"]; i++;
+nltalent[i] = ["Master of Elements"]; i++;
+nltalent[i] = ["Playing with Fire"]; i++;
+nltalent[i] = ["Critical Mass"]; i++;
+nltalent[i] = ["Blast Wave"]; i++;
+nltalent[i] = ["Blazing Speed"]; i++;
+nltalent[i] = ["Fire Power"]; i++;
+nltalent[i] = ["Pyromaniac"]; i++;
+nltalent[i] = ["Combustion"]; i++;
+nltalent[i] = ["Molten Fury"]; i++;
+nltalent[i] = ["Fiery Payback"]; i++;
+nltalent[i] = ["Empowered Fire"]; i++;
+nltalent[i] = ["Firestarter"]; i++;
+nltalent[i] = ["Dragon's Breath"]; i++;
+nltalent[i] = ["Hot Streak"]; i++;
+nltalent[i] = ["Burnout"]; i++;
+nltalent[i] = ["Living Bomb"]; i++;
+
+treeStartStop[t] = i -1;
+t++;
+
+//frost talents
+nltalent[i] = ["Frostbite"]; i++;
+nltalent[i] = ["Improved Frostbolt"]; i++;
+nltalent[i] = ["Ice Floes"]; i++;
+nltalent[i] = ["Ice Shards"]; i++;
+nltalent[i] = ["Frost Warding"]; i++;
+nltalent[i] = ["Elemental Precision"]; i++;
+nltalent[i] = ["Permafrost"]; i++;
+nltalent[i] = ["Piercing Ice"]; i++;
+nltalent[i] = ["Icy Veins"]; i++;
+nltalent[i] = ["Improved Blizzard"]; i++;
+nltalent[i] = ["Arctic Reach"]; i++;
+nltalent[i] = ["Frost Channeling"]; i++;
+nltalent[i] = ["Shatter"]; i++;
+nltalent[i] = ["Cold Snap"]; i++;
+nltalent[i] = ["Improved Cone of Cold"]; i++;
+nltalent[i] = ["Frozen Core"]; i++;
+nltalent[i] = ["Cold as Ice"]; i++;
+nltalent[i] = ["Winter's Chill"]; i++;
+nltalent[i] = ["Shattered Barrier"]; i++;
+nltalent[i] = ["Ice Barrier"]; i++;
+nltalent[i] = ["Arctic Winds"]; i++;
+nltalent[i] = ["Empowered Frostbolt"]; i++;
+nltalent[i] = ["Fingers of Frost"]; i++;
+nltalent[i] = ["Brain Freeze"]; i++;
+nltalent[i] = ["Summon Water Elemental"]; i++;
+nltalent[i] = ["Enduring Winter"]; i++;
+nltalent[i] = ["Chilled to the Bone"]; i++;
+nltalent[i] = ["Deep Freeze"]; i++;
+jsLoaded=true;//needed for ajax script loading

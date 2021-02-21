@@ -1,0 +1,99 @@
+var i = 0;
+var t = 0;
+var nlclass = "hunter";
+var nlclassPatch = "hunter";
+
+nltree[i] = "Beast Mastery"; i++;
+nltree[i] = "Marksmanship"; i++;
+nltree[i] = "Survival"; i++;
+
+i = 0;
+
+nltalent[i] = ["Improved Aspect of the Hawk"]; i++;
+nltalent[i] = ["Endurance Training"]; i++;
+nltalent[i] = ["Focused Fire"]; i++;
+nltalent[i] = ["Improved Aspect of the Monkey"]; i++; 
+nltalent[i] = ["Thick Hide"]; i++;
+nltalent[i] = ["Improved Revive Pet"]; i++;
+nltalent[i] = ["Pathfinding"]; i++;
+nltalent[i] = ["Aspect Mastery"]; i++;
+nltalent[i] = ["Unleashed Fury"]; i++;
+nltalent[i] = ["Improved Mend Pet"]; i++;
+nltalent[i] = ["Ferocity"]; i++;
+nltalent[i] = ["Spirit Bond"]; i++;
+nltalent[i] = ["Intimidation"]; i++;
+nltalent[i] = ["Bestial Discipline"]; i++;
+nltalent[i] = ["Animal Handler"]; i++;
+nltalent[i] = ["Frenzy"]; i++;
+nltalent[i] = ["Ferocious Inspiration"]; i++;
+nltalent[i] = ["Bestial Wrath"]; i++;
+nltalent[i] = ["Catlike Reflexes"]; i++;
+nltalent[i] = ["Invigoration"]; i++;
+nltalent[i] = ["Serpent's Swiftness"]; i++;
+nltalent[i] = ["Longevity"]; i++;
+nltalent[i] = ["The Beast Within"]; i++;
+nltalent[i] = ["Cobra Strikes"]; i++;
+nltalent[i] = ["Kindred Spirits"]; i++;
+nltalent[i] = ["Beast Mastery"]; i++;
+
+//marksmanship talents
+nltalent[i] = ["Improved Concussive Shot"]; i++;
+nltalent[i] = ["Focused Aim"]; i++;
+nltalent[i] = ["Lethal Shots"]; i++;
+nltalent[i] = ["Careful Aim"]; i++;
+nltalent[i] = ["Improved Hunter's Mark"]; i++;
+nltalent[i] = ["Mortal Shots"]; i++;
+nltalent[i] = ["Go for the Throat"]; i++;
+nltalent[i] = ["Improved Arcane Shot"]; i++;
+nltalent[i] = ["Aimed Shot"]; i++;
+nltalent[i] = ["Rapid Killing"]; i++;
+nltalent[i] = ["Improved Stings"]; i++;
+nltalent[i] = ["Efficiency"]; i++;
+nltalent[i] = ["Concussive Barrage"]; i++;
+nltalent[i] = ["Readiness"]; i++;
+nltalent[i] = ["Barrage"]; i++;
+nltalent[i] = ["Combat Experience"]; i++;
+nltalent[i] = ["Ranged Weapon Specialization"]; i++;
+nltalent[i] = ["Piercing Shots"]; i++;
+nltalent[i] = ["Trueshot Aura"]; i++;
+nltalent[i] = ["Improved Barrage"]; i++;
+nltalent[i] = ["Master Marksman"]; i++;
+nltalent[i] = ["Rapid Recuperation"]; i++;
+nltalent[i] = ["Wild Quiver"]; i++;
+nltalent[i] = ["Silencing Shot"]; i++;
+nltalent[i] = ["Improved Steady Shot"]; i++;
+nltalent[i] = ["Marked for Death"]; i++;
+nltalent[i] = ["Chimera Shot"]; i++;
+
+//Survival talents
+nltalent[i] = ["Improved Tracking"]; i++;
+nltalent[i] = ["Hawk Eye"]; i++;
+nltalent[i] = ["Savage Strikes"]; i++;
+nltalent[i] = ["Surefooted"]; i++;
+nltalent[i] = ["Entrapment"]; i++;
+nltalent[i] = ["Trap Mastery"]; i++;
+nltalent[i] = ["Survival Instincts"]; i++;
+nltalent[i] = ["Survivalist"]; i++;
+nltalent[i] = ["Scatter Shot"]; i++;
+nltalent[i] = ["Deflection"]; i++;
+nltalent[i] = ["Survival Tactics"]; i++;
+nltalent[i] = ["T.N.T."]; i++;
+nltalent[i] = ["Lock and Load"]; i++;
+nltalent[i] = ["Hunter vs. Wild"]; i++;
+nltalent[i] = ["Killer Instinct"]; i++;
+nltalent[i] = ["Counterattack"]; i++;
+nltalent[i] = ["Lightning Reflexes"]; i++;
+nltalent[i] = ["Resourcefulness"]; i++;
+nltalent[i] = ["Expose Weakness"]; i++;
+nltalent[i] = ["Wyvern Sting"]; i++;
+nltalent[i] = ["Thrill of the Hunt"]; i++;
+nltalent[i] = ["Master Tactician"]; i++;
+nltalent[i] = ["Noxious Stings"]; i++;
+nltalent[i] = ["Point of No Escape"]; i++;
+nltalent[i] = ["Black Arrow"]; i++;
+nltalent[i] = ["Sniper Training"]; i++;
+nltalent[i] = ["Hunting Party"]; i++;
+nltalent[i] = ["Explosive Shot"]; i++;
+
+
+jsLoaded=true;//needed for ajax script loading
