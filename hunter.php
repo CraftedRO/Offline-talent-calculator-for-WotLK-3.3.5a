@@ -7,9 +7,9 @@
 </head>
 <body style="background-color:#30384c">
 <body text="#FFFFFF" vlink="#45ACF6" link="#45ACF6" bgcolor="black" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
-
+<br>
 <center>
-<a href="../index.html" title="Home"><img width="250px" src="images/logo.png" alt="logo"></a>
+<a href="./index.html" title="Home"><img src="images/logo.png" alt="logo"></a>
 <br>
 <div>
 <a href="deathknight.php"><img src="../talents/class-images/class/deathknight.jpg"></a>
@@ -24,7 +24,6 @@
 <a href="warrior.php"><img src="../talents/class-images/class/warrior.jpg"></a>
 </div>
 </br>
-
 <div id="replaceMeWithTalents"></div>
 </center>
 
