@@ -148,7 +148,7 @@ table { font-size: 12px; }
 
 .treePadding {padding: 0px 10px 0 15px;}
 .talenttreename { height:27px; line-height:27px; position: relative; left: 0px;}
-.talenttreeicon { width:20px; height:20px; position: relative; top: 4px; left: 4px;}
+.talenttreeicon { width:18px; height:18px; position: relative; top: 4px; left: 4px;}
 img.p {behavior: url("../../shared/global/talents/includes/pngBehavior.htc");}
 
 #replaceMeWithTalents {margin-top:6px; _margin-top:20px;}
