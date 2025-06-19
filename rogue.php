@@ -11,16 +11,16 @@
 <a href="index.html" title="Home"><img src="images/logo.png" alt="logo"></a>
 <br>
 <div>
-<a href="deathknight.php"><img src="class-images/class/deathknight.jpg"></a>
-<a href="druid.php"><img src="class-images/class/druid.jpg"></a>
-<a href="hunter.php"><img src="class-images/class/hunter.jpg"></a>
-<a href="mage.php"><img src="class-images/class/mage.jpg"></a>
-<a href="paladin.php"><img src="class-images/class/paladin.jpg"></a>
-<a href="priest.php"><img src="class-images/class/priest.jpg"></a>
-<a href="rogue.php"><img src="class-images/class/rogue.jpg" style="box-shadow: 0 0 5px 1px #8ab4f8;"></a>
-<a href="shaman.php"><img src="class-images/class/shaman.jpg"></a>
-<a href="warlock.php"><img src="class-images/class/warlock.jpg"></a>
-<a href="warrior.php"><img src="class-images/class/warrior.jpg"></a>
+<a href="deathknight.php" title="Death Knight"><img src="class-images/class/deathknight.jpg"></a>
+<a href="druid.php" title="Druid"><img src="class-images/class/druid.jpg"></a>
+<a href="hunter.php" title="Hunter"><img src="class-images/class/hunter.jpg"></a>
+<a href="mage.php" title="Mage"><img src="class-images/class/mage.jpg"></a>
+<a href="paladin.php" title="Paladin"><img src="class-images/class/paladin.jpg"></a>
+<a href="priest.php" title="Priest"><img src="class-images/class/priest.jpg"></a>
+<a href="rogue.php" title="Rogue"><img src="class-images/class/rogue.jpg" style="box-shadow: 0 0 5px 1px #8ab4f8;"></a>
+<a href="shaman.php" title="Shaman"><img src="class-images/class/shaman.jpg"></a>
+<a href="warlock.php" title="Warlock"><img src="class-images/class/warlock.jpg"></a>
+<a href="warrior.php" title="Warrior"><img src="class-images/class/warrior.jpg"></a>
 </div>
 </br>
 <div id="replaceMeWithTalents"></div>
